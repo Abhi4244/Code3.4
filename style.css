@@ -1,0 +1,65 @@
+.flex-container {
+  display: flex;
+  justify-content: center;
+  background-color: cyan
+}
+.flex-container > div {
+  background-color:beige;
+  width: 50px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 20px;
+}
+.flex-container1 {
+  display: flex;
+  justify-content: flex-start;
+  background-color: cyan
+}
+.flex-container1 > div {
+  background-color:beige;
+  width: 50px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 20px;
+}
+.flex-container2 {
+  display: flex;
+  justify-content:flex-end;
+  background-color: cyan
+}
+.flex-container2 > div {
+  background-color:beige;
+  width: 50px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 20px;
+}
+.flex-container3 {
+  display: flex;
+  justify-content:space-around;
+  background-color: cyan
+}
+.flex-container3 > div {
+  background-color:beige;
+  width: 50px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 20px;
+}
+.flex-container4 {
+  display: flex;
+  justify-content:space-between;
+  background-color: cyan
+}
+.flex-container4 > div {
+  background-color:beige;
+  width: 50px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 20px;
+}
